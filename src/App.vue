@@ -68,7 +68,7 @@ export default {
         'https://awsimages.detik.net.id/community/media/visual/2023/04/04/adv-blibli.png?w=1200',
       ],
       items: [
-        { id: 1, title: 'Item 1', description: 'Description 1', image: '' },
+        { id: 1, title: 'Item 1', description: 'Description 1', image: 'https://awsimages.detik.net.id/community/media/visual/2023/04/04/adv-blibli.png?w=1200' },
         { id: 2, title: 'Item 2', description: 'Description 2', image: '' },
         { id: 3, title: 'Item 3', description: 'Description 3', image: '' },
         { id: 4, title: 'Item 4', description: 'Description 4', image: '' },
